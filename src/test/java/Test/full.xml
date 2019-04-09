@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <account id="1" balance="222222.33"/>
+  <account id="2" balance="13644.52"/>
+  <account id="3" balance="51324.11"/>
+  <account id="4" balance="4.34567897653E10"/>
+  <account id="5" balance="0.0"/>
+  <account id="10" balance="55.55"/>
+  <account id="11" balance="55.55"/>
+  <account id="12" balance="55.55"/>
+  <account id="15" balance="55.55"/>
+  <creditcard id="1" account_id="3" last_used="1996-01-02 00:00:00.0" pin_code="1234" wrong_pin_code_attempts="0" blocked="false"/>
+  <creditcard id="2" account_id="1" last_used="0001-01-01 00:00:00.0" pin_code="4321" wrong_pin_code_attempts="100" blocked="true"/>
+  <creditcard id="3" account_id="5" last_used="2000-01-30 00:00:00.0" pin_code="1111" wrong_pin_code_attempts="0" blocked="false"/>
+  <creditcard id="4" account_id="4" last_used="2015-01-01 00:00:00.0" pin_code="2222" wrong_pin_code_attempts="0" blocked="true"/>
+  <creditcard id="5" account_id="2" last_used="2002-04-30 00:00:00.0" pin_code="0987" wrong_pin_code_attempts="5" blocked="false"/>
+  <creditcard id="10" account_id="10" last_used="1996-09-02 00:00:00.0" pin_code="2222" wrong_pin_code_attempts="0" blocked="false"/>
+  <creditcard id="11" account_id="11" last_used="1996-09-02 00:00:00.0" pin_code="2222" wrong_pin_code_attempts="0" blocked="false"/>
+  <creditcard id="12" account_id="12" last_used="1996-09-02 00:00:00.0" pin_code="2222" wrong_pin_code_attempts="0" blocked="false"/>
+  <creditcard id="15" account_id="15" last_used="1996-09-02 00:00:00.0" pin_code="2222" wrong_pin_code_attempts="0" blocked="false"/>
+</dataset>
